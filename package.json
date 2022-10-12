@@ -1,0 +1,26 @@
+{
+  "name": "befa",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksgtd/befa.git"
+  },
+  "keywords": [],
+  "author": "Aleksey Sugonyako <alekssugonjako@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksgtd/befa/issues"
+  },
+  "homepage": "https://github.com/aleksgtd/befa#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
